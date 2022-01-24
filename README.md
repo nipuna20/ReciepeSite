@@ -1,11 +1,7 @@
 # ReciepeSite
 
 
-Chamidu Priyankara
-12:13 (16 minutes ago)
-to me
-
-<h1 align="center">~~ My Recipe - Web Application ~~</h1>
+<h1 align="center">~~ ReciepeSite - Web Application ~~</h1>
 
 <p align="center">
   <br />
