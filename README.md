@@ -9,7 +9,7 @@ to me
 
 <p align="center">
   <br />
-  <img src="https://user-images.githubusercontent.com/88779737/150736212-28bade99-d9b1-478e-8097-b45fc41b72f0.png" width="300" height="100"/>
+  <img src="https://user-images.githubusercontent.com/88779737/150736212-28bade99-d9b1-478e-8097-b45fc41b72f0.png" width="300" height="150"/>
 </p>
 
 <h2>Tools & Technologies</h2>
